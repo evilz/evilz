@@ -43,7 +43,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/320px-Flag_of_France.svg.png" />
+### <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /> <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/320px-Flag_of_France.svg.png" />
 
 <!-- YOUTUBE:START -->
 - [ruby koans](https://www.youtube.com/watch?v=KPJ1VwQzj4Y)
@@ -57,7 +57,7 @@
 
 ---
 
-### 📺 Latest Blog post <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/320px-Flag_of_France.svg.png" />
+### <img src="https://img.shields.io/badge/rss-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white" /> <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/320px-Flag_of_France.svg.png" />
 
 <!-- BLOG-POST-LIST:START -->
 - [Retour sur la Fsharp Exchange 2018](https://www.evilznet.com/2018/04/11/fsharp-exchange-2018/)
