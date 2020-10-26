@@ -46,7 +46,11 @@
 ### 📺 Latest YouTube Videos <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/320px-Flag_of_France.svg.png" />
 
 <!-- YOUTUBE:START -->
-
+- [ruby koans](https://www.youtube.com/watch?v=KPJ1VwQzj4Y)
+- [POCO X3 NFC 📱 UNBOXING ET PRESENTATION !](https://www.youtube.com/watch?v=DXqNAm5797U)
+- [Les GAFAM](https://www.youtube.com/watch?v=qKnwd8Lvpvs)
+- [VERS LE CLOUD ET AU DELA](https://www.youtube.com/watch?v=XMnjJ0f-PSY)
+- [🔓 SOLID : Open/Close principle](https://www.youtube.com/watch?v=JtGo_28PHGM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UC_HhFQs9890qnl7yEEFQ1GA)
