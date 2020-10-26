@@ -71,12 +71,9 @@
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="evilz's GitHub Stats" src="https://github-readme-stats.evilz.vercel.app/api?username=evilz&show_icons=true&hide_border=true" />
 
-</details>
 
 [website]: https://www.evilznet.com
 [twitter]: https://twitter.com/Evilznet
