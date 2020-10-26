@@ -62,14 +62,11 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
-
-</details>
 
 
   <img align="left" alt="evilz's GitHub Stats" src="https://github-readme-stats.evilz.vercel.app/api?username=evilz&show_icons=true&hide_border=true" />
