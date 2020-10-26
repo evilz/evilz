@@ -55,7 +55,11 @@
 
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Retour sur la Fsharp Exchange 2018](https://www.evilznet.com/2018/04/11/fsharp-exchange-2018/)
+- [Convertir son blog en Progressive Web App](https://www.evilznet.com/2018/03/05/AMP-WPA-CDN-2/)
+- [Convertir son blog avec Accelerated Mobile Page](https://www.evilznet.com/2018/02/14/AMP-WPA-CDN-1/)
+- [Du Fsharp à NewCrafts 2017](https://www.evilznet.com/2017/06/07/Du-fsharp-a-newcraft-2017/)
+- [Installer VScode sur votre Nexus 5](https://www.evilznet.com/2017/05/14/vscode-on-nexus-5/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.evilznet.com)
