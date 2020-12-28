@@ -46,11 +46,11 @@
 ### <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /> <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/320px-Flag_of_France.svg.png" />
 
 <!-- YOUTUBE:START -->
+- [🎁 Unboxing Secretlab TITAN - Team liquid edition 😍](https://www.youtube.com/watch?v=ia2cQi4Z7AE)
 - [NOTEBOOK 📓 avec .NET interactive](https://www.youtube.com/watch?v=8uTe75fRdKE)
 - [Je reviens sur 20 années de .NET 😲](https://www.youtube.com/watch?v=KVtUp9K2rSU)
 - [Code Challenge vpTech en F#](https://www.youtube.com/watch?v=ThE3bZMp-hY)
 - [ruby koans](https://www.youtube.com/watch?v=KPJ1VwQzj4Y)
-- [POCO X3 NFC 📱 UNBOXING ET PRESENTATION !](https://www.youtube.com/watch?v=DXqNAm5797U)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UC_HhFQs9890qnl7yEEFQ1GA)
