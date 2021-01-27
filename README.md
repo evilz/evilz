@@ -46,11 +46,11 @@
 ### <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /> <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/320px-Flag_of_France.svg.png" />
 
 <!-- YOUTUBE:START -->
+- [Mon setup Asus ROG Strix et CORSAIR (2020)](https://www.youtube.com/watch?v=-Zsmwk5e0ZA)
 - [Mes Objectifs pour 2021 🙄](https://www.youtube.com/watch?v=o8t9sYUrDTA)
 - [🎁 Unboxing Secretlab TITAN - Team liquid edition 😍](https://www.youtube.com/watch?v=ia2cQi4Z7AE)
 - [NOTEBOOK 📓 avec .NET interactive](https://www.youtube.com/watch?v=8uTe75fRdKE)
 - [Je reviens sur 20 années de .NET 😲](https://www.youtube.com/watch?v=KVtUp9K2rSU)
-- [Code Challenge vpTech en F#](https://www.youtube.com/watch?v=ThE3bZMp-hY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UC_HhFQs9890qnl7yEEFQ1GA)
