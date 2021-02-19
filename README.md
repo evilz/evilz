@@ -46,11 +46,11 @@
 ### <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /> <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/320px-Flag_of_France.svg.png" />
 
 <!-- YOUTUBE:START -->
+- [Alpine.js le micro-framework pour frontend](https://www.youtube.com/watch?v=J4qx7pOUZ0k)
 - [🔀 Liskov Substitution Principle](https://www.youtube.com/watch?v=H4X1Rv2_9bI)
 - [Les meilleurs langages en 2021 ?](https://www.youtube.com/watch?v=vAYFCe2G7k4)
 - [Mon setup Asus ROG Strix et CORSAIR (2020)](https://www.youtube.com/watch?v=-Zsmwk5e0ZA)
 - [Mes Objectifs pour 2021 🙄](https://www.youtube.com/watch?v=o8t9sYUrDTA)
-- [🎁 Unboxing Secretlab TITAN - Team liquid edition 😍](https://www.youtube.com/watch?v=ia2cQi4Z7AE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UC_HhFQs9890qnl7yEEFQ1GA)
