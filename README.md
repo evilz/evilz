@@ -47,7 +47,7 @@
 
 <!-- YOUTUBE:START -->
 - [#1 - Windows Terminal - Présentation et installation](https://www.youtube.com/watch?v=ojzZIxfJ98k)
-- [Windows 10 meilleur système d'exploitation ! 🤩](https://www.youtube.com/watch?v=rq12JzytUnw)
+- [#0 - Windows 10 meilleur système d'exploitation ! 🤩  (avec WSL2)](https://www.youtube.com/watch?v=rq12JzytUnw)
 - [Google Hashcode 2021 - Grumpy cats de retour](https://www.youtube.com/watch?v=sesC_pTNfwg)
 - [Alpine.js le micro-framework pour frontend](https://www.youtube.com/watch?v=J4qx7pOUZ0k)
 - [🔀 Liskov Substitution Principle](https://www.youtube.com/watch?v=H4X1Rv2_9bI)
