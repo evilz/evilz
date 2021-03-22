@@ -46,11 +46,11 @@
 ### <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /> <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/320px-Flag_of_France.svg.png" />
 
 <!-- YOUTUBE:START -->
+- [#2 WSL 2 - Windows Subsystem for Linux 2 guide d'installation et prise en main](https://www.youtube.com/watch?v=2aUMp9eDMXA)
 - [#1 - Windows Terminal - Présentation et installation](https://www.youtube.com/watch?v=ojzZIxfJ98k)
 - [#0 - Windows 10 meilleur système d'exploitation ! 🤩  (avec WSL2)](https://www.youtube.com/watch?v=rq12JzytUnw)
 - [Google Hashcode 2021 - Grumpy cats de retour](https://www.youtube.com/watch?v=sesC_pTNfwg)
 - [Alpine.js le micro-framework pour frontend](https://www.youtube.com/watch?v=J4qx7pOUZ0k)
-- [🔀 Liskov Substitution Principle](https://www.youtube.com/watch?v=H4X1Rv2_9bI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UC_HhFQs9890qnl7yEEFQ1GA)
