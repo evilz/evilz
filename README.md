@@ -46,11 +46,11 @@
 ### <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /> <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/320px-Flag_of_France.svg.png" />
 
 <!-- YOUTUBE:START -->
+- [Formation C# - ep.01 - hello world](https://www.youtube.com/watch?v=g0M7aKqWt2U)
 - [Utiliser la CLI .NET](https://www.youtube.com/watch?v=PZmRAxAigok)
 - [Installation des outils .NET](https://www.youtube.com/watch?v=TmEz1TEUiIY)
 - [Qu'est ce que .NET ?](https://www.youtube.com/watch?v=Rv52ItjeTbo)
 - [Créer une API REST en F#](https://www.youtube.com/watch?v=eCS095AD_aw)
-- [Personnaliser son prompt avec Oh My Posh 😮](https://www.youtube.com/watch?v=6w4PwPZU-jM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UC_HhFQs9890qnl7yEEFQ1GA)
