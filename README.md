@@ -46,11 +46,11 @@
 ### <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /> <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/320px-Flag_of_France.svg.png" />
 
 <!-- YOUTUBE:START -->
+- [Hot chocolate GraphQL workshop - ep.03 : Resolver et Data loader](https://www.youtube.com/watch?v=mDLHyDmHy84)
 - [Hot chocolate GraphQL workshop - ep.02 : Champs obligatoire vs optionnels](https://www.youtube.com/watch?v=Ig8AMxmYx5c)
 - [Hot chocolate GraphQL workshop - ep.01 : créer une API basique](https://www.youtube.com/watch?v=iYtxF-iynQw)
 - [C# ep 02 Commentaire et documentation](https://www.youtube.com/watch?v=aki8I5mN1is)
 - [Formation C# - ep.01 - hello world](https://www.youtube.com/watch?v=g0M7aKqWt2U)
-- [Utiliser la CLI .NET](https://www.youtube.com/watch?v=PZmRAxAigok)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UC_HhFQs9890qnl7yEEFQ1GA)
