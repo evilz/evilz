@@ -46,11 +46,11 @@
 ### <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /> <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/320px-Flag_of_France.svg.png" />
 
 <!-- YOUTUBE:START -->
+- [Intégration continue avec GitHub et Docker](https://www.youtube.com/watch?v=7qtavSlHNTo)
 - [Présentation de VScode Reveal](https://www.youtube.com/watch?v=kurZDZ5jT2Y)
 - [Rentrée 2021 - bilan semestriel](https://www.youtube.com/watch?v=-02EIQ2BYCo)
 - [Windows 11 et WSL gui ⫸ macOS](https://www.youtube.com/watch?v=_RRUVR3izIs)
 - [Hot chocolate GraphQL workshop - ep.03 : Resolver et Data loader](https://www.youtube.com/watch?v=mDLHyDmHy84)
-- [Hot chocolate GraphQL workshop - ep.02 : Champs obligatoire vs optionnels](https://www.youtube.com/watch?v=Ig8AMxmYx5c)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UC_HhFQs9890qnl7yEEFQ1GA)
