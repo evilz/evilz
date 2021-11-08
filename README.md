@@ -49,7 +49,7 @@
 - [Installer Windows subsystem for Android avec Play store and Masgisk](https://www.youtube.com/watch?v=glvh3rpdwhE)
 - [Installer le sous-système Android sur Windows 11](https://www.youtube.com/watch?v=914ff3JbWT8)
 - [Nouveautés de F # 6](https://www.youtube.com/watch?v=XiRJQDzGQso)
-- [Qu'est ce que les Web Components ?](https://www.youtube.com/watch?v=vdpzwAOg8so)
+- [Qu&#39;est ce que les Web Components ?](https://www.youtube.com/watch?v=vdpzwAOg8so)
 - [Hot chocolate GraphQL workshop - ep.04 : Conception de schema](https://www.youtube.com/watch?v=eV6rGb43lso)
 <!-- YOUTUBE:END -->
 
