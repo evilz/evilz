@@ -46,11 +46,11 @@
 ### <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /> <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/320px-Flag_of_France.svg.png" />
 
 <!-- YOUTUBE:START -->
+- [Publication de l&#39;extension VSCODE Reveal 4.1.0 🎉](https://www.youtube.com/watch?v=vCPT4kHan0w)
 - [Créer un service de notifications Slack et Alexa avec jq](https://www.youtube.com/watch?v=F2o_BZI24dE)
 - [Installer Windows subsystem for Android avec Play store and Masgisk](https://www.youtube.com/watch?v=glvh3rpdwhE)
 - [Installer le sous-système Android sur Windows 11](https://www.youtube.com/watch?v=914ff3JbWT8)
 - [Nouveautés de F # 6](https://www.youtube.com/watch?v=XiRJQDzGQso)
-- [Qu&#39;est ce que les Web Components ?](https://www.youtube.com/watch?v=vdpzwAOg8so)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UC_HhFQs9890qnl7yEEFQ1GA)
