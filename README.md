@@ -46,11 +46,11 @@
 ### <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /> <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/320px-Flag_of_France.svg.png" />
 
 <!-- YOUTUBE:START -->
+- [Hot chocolate GraphQL workshop - ep.06 : Middleware](https://www.youtube.com/watch?v=-b09b7v8MmE)
 - [Hot chocolate GraphQL workshop - ep.05 :  NET6  Hot Chocolate 12](https://www.youtube.com/watch?v=GV9I5Prss_w)
 - [Concurrence et parallélisme en GO et .NET](https://www.youtube.com/watch?v=zGMlZNIE4GE)
 - [Elmish en 15min : L&#39;architecture Elm en F#](https://www.youtube.com/watch?v=683capVAH5o)
 - [En 2022 je fais quoi ??](https://www.youtube.com/watch?v=Gnprq3xX0BI)
-- [monogame 3.8 : installation et Hot reload .NET 6.0](https://www.youtube.com/watch?v=2IYh0oKYkks)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UC_HhFQs9890qnl7yEEFQ1GA)
